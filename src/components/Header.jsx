@@ -1,5 +1,5 @@
 import reactLogo from "../assets/react.svg";
-export default function Navbar() {
+export default function Header() {
   return (
     <header className="header-section">
       <div className="container">
