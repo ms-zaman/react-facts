@@ -1,3 +1,5 @@
+import Header from "./components/Header";
+
 export default function App() {
-  return <h1>Travel Journal</h1>;
+  return <Header />;
 }

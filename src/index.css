@@ -6,3 +6,32 @@
 body {
     font-family: "Inter", serif;
 }
+
+.container {
+    width: 100%;
+    max-width: 550px;
+    margin-inline: auto;
+}
+
+.header-section {
+    padding: 16px 20px;
+    background-color: #F55A5A;
+    color: #fff;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.navbar .nav-logo {
+    width: 24px;
+}
+
+.navbar .nav-logo-title {
+    font-size: 15px;
+    letter-spacing: -7.5%;
+    line-height: 1em;
+}
